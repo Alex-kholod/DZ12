@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sort_puz<Complex>(T *,unsigned int)"
+          with
+          [
+              T=Complex
+          ]
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void fill_area<int>(T *,unsigned int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print<int>(T *,unsigned int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sort_vstavka<int>(T *,unsigned int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\ThirdProject\DZ6\main.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sort_selection<int>(T *,unsigned int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Alex\source\repos\ThirdProject\DZ6\panel.h(63,25): warning C4018: <: несоответствие типов со знаком и без знака
+  DZ12.vcxproj -> C:\Users\Alex\source\repos\ThirdProject\Debug\DZ12.exe
